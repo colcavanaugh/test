@@ -1,3 +1,3 @@
-# Hi.
+# Learning and testing basic git commands.
 
-# hello
+# Update test.
